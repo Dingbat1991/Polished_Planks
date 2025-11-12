@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "polished_planks:block/polished_cherry_planks"
+  }
+}

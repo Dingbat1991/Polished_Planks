@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "polished_planks:item/polished_bamboo_door"
+  }
+}
