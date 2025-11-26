@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "polished_pressure_plates",
+  "key": {
+    "B": {
+      "item": "polished_planks:polished_cherry_planks"
+    }
+  },
+  "pattern": [
+    "BB "
+  ],
+  "result": {
+    "item": "polished_planks:polished_cherry_pressure_plate"
+  },
+  "show_notification": true
+}

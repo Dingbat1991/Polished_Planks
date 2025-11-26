@@ -1,2 +1,9 @@
-// 1.20.1	2025-11-07T17:22:46.0654477	Tags for minecraft:block mod id polished_planks
+// 1.20.1	2025-11-20T20:35:57.6644896	Tags for minecraft:block mod id polished_planks
+671e1aa2ca3a9d21623a38c63cbb76492419775c data/minecraft/tags/blocks/buttons.json
 78fbae49071059c48da62e235ec59f62c3d14353 data/minecraft/tags/blocks/doors.json
+7c1eca12a269eed47c10681369f27297ccd11f4f data/minecraft/tags/blocks/fences.json
+06f80cc84d7f2a07b8ca7c8aaf37125d15c54959 data/minecraft/tags/blocks/fence_gates.json
+43101073941c7f8dd1a3c413555d42119c763c07 data/minecraft/tags/blocks/planks.json
+ca2cdeddb5e152e1ed520274ecbe26c07306cbf3 data/minecraft/tags/blocks/pressure_plates.json
+15aa29ca7e4a1942661795c894c26688316e98ed data/minecraft/tags/blocks/slabs.json
+1fa4561890ebeaa35ce9e280ebaa306264675cf5 data/minecraft/tags/blocks/stairs.json

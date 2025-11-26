@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "polished_buttons",
+  "ingredients": [
+    {
+      "item": "polished_planks:polished_birch_planks"
+    }
+  ],
+  "result": {
+    "item": "polished_planks:polished_birch_button"
+  }
+}

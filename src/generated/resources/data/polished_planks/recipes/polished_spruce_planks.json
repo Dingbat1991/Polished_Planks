@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "polished_planks",
+  "key": {
+    "B": {
+      "item": "minecraft:spruce_planks"
+    },
+    "H": {
+      "item": "minecraft:honeycomb"
+    }
+  },
+  "pattern": [
+    "BBB",
+    "BHB",
+    "BBB"
+  ],
+  "result": {
+    "count": 8,
+    "item": "polished_planks:polished_spruce_planks"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "polished_planks:block/polished_cherry_slab"
+    },
+    "type=double": {
+      "model": "polished_planks:block/polished_cherry_planks"
+    },
+    "type=top": {
+      "model": "polished_planks:block/polished_cherry_slab_top"
+    }
+  }
+}

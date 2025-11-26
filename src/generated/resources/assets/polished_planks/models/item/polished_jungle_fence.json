@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/fence_inventory",
+  "textures": {
+    "texture": "polished_planks:block/polished_jungle_planks"
+  }
+}

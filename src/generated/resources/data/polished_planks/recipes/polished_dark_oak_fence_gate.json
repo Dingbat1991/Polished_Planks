@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "polished_fence_gates",
+  "key": {
+    "B": {
+      "item": "polished_planks:polished_dark_oak_planks"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "SBS",
+    "SBS"
+  ],
+  "result": {
+    "count": 3,
+    "item": "polished_planks:polished_dark_oak_fence_gate"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "polished_slabs",
+  "key": {
+    "B": {
+      "item": "polished_planks:polished_jungle_planks"
+    }
+  },
+  "pattern": [
+    "BBB"
+  ],
+  "result": {
+    "count": 6,
+    "item": "polished_planks:polished_jungle_slab"
+  },
+  "show_notification": true
+}

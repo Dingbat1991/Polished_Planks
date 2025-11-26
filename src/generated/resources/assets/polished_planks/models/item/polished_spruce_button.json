@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/button_inventory",
+  "textures": {
+    "texture": "polished_planks:block/polished_spruce_planks"
+  }
+}

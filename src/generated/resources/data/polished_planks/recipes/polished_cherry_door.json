@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "polished_doors",
+  "key": {
+    "B": {
+      "item": "polished_planks:polished_cherry_planks"
+    }
+  },
+  "pattern": [
+    "BB ",
+    "BB ",
+    "BB "
+  ],
+  "result": {
+    "count": 2,
+    "item": "polished_planks:polished_cherry_door"
+  },
+  "show_notification": true
+}
