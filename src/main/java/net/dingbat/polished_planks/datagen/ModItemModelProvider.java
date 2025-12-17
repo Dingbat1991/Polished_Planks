@@ -120,6 +120,18 @@ public class ModItemModelProvider extends ItemModelProvider {
         evenSimplerBlockItem(ModBlocks.POLISHED_WARPED_SLAB);
         evenSimplerBlockItem(ModBlocks.POLISHED_WARPED_PRESSURE_PLATE);
         evenSimplerBlockItem(ModBlocks.POLISHED_WARPED_FENCE_GATE);
+
+        trapdoorItem(ModBlocks.POLISHED_ACACIA_TRAPDOOR);
+        trapdoorItem(ModBlocks.POLISHED_BAMBOO_TRAPDOOR);
+        trapdoorItem(ModBlocks.POLISHED_BIRCH_TRAPDOOR);
+        trapdoorItem(ModBlocks.POLISHED_CHERRY_TRAPDOOR);
+        trapdoorItem(ModBlocks.POLISHED_CRIMSON_TRAPDOOR);
+        trapdoorItem(ModBlocks.POLISHED_DARK_OAK_TRAPDOOR);
+        trapdoorItem(ModBlocks.POLISHED_JUNGLE_TRAPDOOR);
+        trapdoorItem(ModBlocks.POLISHED_MANGROVE_TRAPDOOR);
+        trapdoorItem(ModBlocks.POLISHED_OAK_TRAPDOOR);
+        trapdoorItem(ModBlocks.POLISHED_SPRUCE_TRAPDOOR);
+        trapdoorItem(ModBlocks.POLISHED_WARPED_TRAPDOOR);
     }
 
     // private ItemModelBuilder simpleItem(RegistryObject<Item> item) {
@@ -132,6 +144,11 @@ public class ModItemModelProvider extends ItemModelProvider {
     public void evenSimplerBlockItem(RegistryObject<Block> block) {
         this.withExistingParent(PolishedPlanks.MOD_ID + ":" + ForgeRegistries.BLOCKS.getKey(block.get()).getPath(),
                 modLoc("block/" + ForgeRegistries.BLOCKS.getKey(block.get()).getPath()));
+    }
+
+    public void trapdoorItem(RegistryObject<Block> block) {
+        this.withExistingParent(ForgeRegistries.BLOCKS.getKey(block.get()).getPath(),
+                modLoc("block/" + ForgeRegistries.BLOCKS.getKey(block.get()).getPath() + "_bottom"));
     }
 
     public void fenceItem(RegistryObject<Block> block, RegistryObject<Block> baseBlock) {

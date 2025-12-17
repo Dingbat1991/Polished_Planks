@@ -125,6 +125,19 @@ public class ModBlockTagGenerator extends BlockTagsProvider {
                                                 ModBlocks.POLISHED_OAK_DOOR.get(),
                                                 ModBlocks.POLISHED_SPRUCE_DOOR.get(),
                                                 ModBlocks.POLISHED_WARPED_DOOR.get());
+
+                this.tag(BlockTags.TRAPDOORS)
+                                .add(ModBlocks.POLISHED_ACACIA_TRAPDOOR.get(),
+                                                ModBlocks.POLISHED_BAMBOO_TRAPDOOR.get(),
+                                                ModBlocks.POLISHED_BIRCH_TRAPDOOR.get(),
+                                                ModBlocks.POLISHED_CHERRY_TRAPDOOR.get(),
+                                                ModBlocks.POLISHED_CRIMSON_TRAPDOOR.get(),
+                                                ModBlocks.POLISHED_DARK_OAK_TRAPDOOR.get(),
+                                                ModBlocks.POLISHED_JUNGLE_TRAPDOOR.get(),
+                                                ModBlocks.POLISHED_MANGROVE_TRAPDOOR.get(),
+                                                ModBlocks.POLISHED_OAK_TRAPDOOR.get(),
+                                                ModBlocks.POLISHED_SPRUCE_TRAPDOOR.get(),
+                                                ModBlocks.POLISHED_WARPED_TRAPDOOR.get());
         }
 
 }

@@ -826,5 +826,104 @@ public class ModRecipeProvider extends RecipeProvider implements IConditionBuild
                                                 has(ModBlocks.POLISHED_WARPED_PLANKS.get()))
                                 .save(pWriter);
 
+                ShapedRecipeBuilder.shaped(RecipeCategory.MISC, ModBlocks.POLISHED_ACACIA_TRAPDOOR.get(), 2)
+                                .pattern("BBB")
+                                .pattern("BBB")
+                                .define('B', ModBlocks.POLISHED_ACACIA_PLANKS.get())
+                                .group("polished_trapdoors")
+                                .unlockedBy(getHasName(ModBlocks.POLISHED_ACACIA_PLANKS.get()),
+                                                has(ModBlocks.POLISHED_ACACIA_PLANKS.get()))
+                                .save(pWriter);
+
+                ShapedRecipeBuilder.shaped(RecipeCategory.MISC, ModBlocks.POLISHED_BAMBOO_TRAPDOOR.get(), 2)
+                                .pattern("BBB")
+                                .pattern("BBB")
+                                .define('B', ModBlocks.POLISHED_BAMBOO_PLANKS.get())
+                                .group("polished_trapdoors")
+                                .unlockedBy(getHasName(ModBlocks.POLISHED_BAMBOO_PLANKS.get()),
+                                                has(ModBlocks.POLISHED_BAMBOO_PLANKS.get()))
+                                .save(pWriter);
+
+                ShapedRecipeBuilder.shaped(RecipeCategory.MISC, ModBlocks.POLISHED_BIRCH_TRAPDOOR.get(), 2)
+                                .pattern("BBB")
+                                .pattern("BBB")
+                                .define('B', ModBlocks.POLISHED_BIRCH_PLANKS.get())
+                                .group("polished_trapdoors")
+                                .unlockedBy(getHasName(ModBlocks.POLISHED_BIRCH_PLANKS.get()),
+                                                has(ModBlocks.POLISHED_BIRCH_PLANKS.get()))
+                                .save(pWriter);
+
+                ShapedRecipeBuilder.shaped(RecipeCategory.MISC, ModBlocks.POLISHED_CHERRY_TRAPDOOR.get(), 2)
+                                .pattern("BBB")
+                                .pattern("BBB")
+                                .define('B', ModBlocks.POLISHED_CHERRY_PLANKS.get())
+                                .group("polished_trapdoors")
+                                .unlockedBy(getHasName(ModBlocks.POLISHED_CHERRY_PLANKS.get()),
+                                                has(ModBlocks.POLISHED_CHERRY_PLANKS.get()))
+                                .save(pWriter);
+
+                ShapedRecipeBuilder.shaped(RecipeCategory.MISC, ModBlocks.POLISHED_CRIMSON_TRAPDOOR.get(), 2)
+                                .pattern("BBB")
+                                .pattern("BBB")
+                                .define('B', ModBlocks.POLISHED_CRIMSON_PLANKS.get())
+                                .group("polished_trapdoors")
+                                .unlockedBy(getHasName(ModBlocks.POLISHED_CRIMSON_PLANKS.get()),
+                                                has(ModBlocks.POLISHED_CRIMSON_PLANKS.get()))
+                                .save(pWriter);
+
+                ShapedRecipeBuilder.shaped(RecipeCategory.MISC, ModBlocks.POLISHED_DARK_OAK_TRAPDOOR.get(), 2)
+                                .pattern("BBB")
+                                .pattern("BBB")
+                                .define('B', ModBlocks.POLISHED_DARK_OAK_PLANKS.get())
+                                .group("polished_trapdoors")
+                                .unlockedBy(getHasName(ModBlocks.POLISHED_DARK_OAK_PLANKS.get()),
+                                                has(ModBlocks.POLISHED_DARK_OAK_PLANKS.get()))
+                                .save(pWriter);
+
+                ShapedRecipeBuilder.shaped(RecipeCategory.MISC, ModBlocks.POLISHED_JUNGLE_TRAPDOOR.get(), 2)
+                                .pattern("BBB")
+                                .pattern("BBB")
+                                .define('B', ModBlocks.POLISHED_JUNGLE_PLANKS.get())
+                                .group("polished_trapdoors")
+                                .unlockedBy(getHasName(ModBlocks.POLISHED_JUNGLE_PLANKS.get()),
+                                                has(ModBlocks.POLISHED_JUNGLE_PLANKS.get()))
+                                .save(pWriter);
+
+                ShapedRecipeBuilder.shaped(RecipeCategory.MISC, ModBlocks.POLISHED_MANGROVE_TRAPDOOR.get(), 2)
+                                .pattern("BBB")
+                                .pattern("BBB")
+                                .define('B', ModBlocks.POLISHED_MANGROVE_PLANKS.get())
+                                .group("polished_trapdoors")
+                                .unlockedBy(getHasName(ModBlocks.POLISHED_MANGROVE_PLANKS.get()),
+                                                has(ModBlocks.POLISHED_MANGROVE_PLANKS.get()))
+                                .save(pWriter);
+
+                ShapedRecipeBuilder.shaped(RecipeCategory.MISC, ModBlocks.POLISHED_OAK_TRAPDOOR.get(), 2)
+                                .pattern("BBB")
+                                .pattern("BBB")
+                                .define('B', ModBlocks.POLISHED_OAK_PLANKS.get())
+                                .group("polished_trapdoors")
+                                .unlockedBy(getHasName(ModBlocks.POLISHED_OAK_PLANKS.get()),
+                                                has(ModBlocks.POLISHED_OAK_PLANKS.get()))
+                                .save(pWriter);
+
+                ShapedRecipeBuilder.shaped(RecipeCategory.MISC, ModBlocks.POLISHED_SPRUCE_TRAPDOOR.get(), 2)
+                                .pattern("BBB")
+                                .pattern("BBB")
+                                .define('B', ModBlocks.POLISHED_SPRUCE_PLANKS.get())
+                                .group("polished_trapdoors")
+                                .unlockedBy(getHasName(ModBlocks.POLISHED_SPRUCE_PLANKS.get()),
+                                                has(ModBlocks.POLISHED_SPRUCE_PLANKS.get()))
+                                .save(pWriter);
+
+                ShapedRecipeBuilder.shaped(RecipeCategory.MISC, ModBlocks.POLISHED_WARPED_TRAPDOOR.get(), 2)
+                                .pattern("BBB")
+                                .pattern("BBB")
+                                .define('B', ModBlocks.POLISHED_WARPED_PLANKS.get())
+                                .group("polished_trapdoors")
+                                .unlockedBy(getHasName(ModBlocks.POLISHED_WARPED_PLANKS.get()),
+                                                has(ModBlocks.POLISHED_WARPED_PLANKS.get()))
+                                .save(pWriter);
+
         }
 }

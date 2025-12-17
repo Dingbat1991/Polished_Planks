@@ -51,6 +51,7 @@ public class PolishedPlanks {
             event.accept(ModBlocks.POLISHED_ACACIA_FENCE);
             event.accept(ModBlocks.POLISHED_ACACIA_FENCE_GATE);
             event.accept(ModBlocks.POLISHED_ACACIA_DOOR);
+            event.accept(ModBlocks.POLISHED_ACACIA_TRAPDOOR);
             event.accept(ModBlocks.POLISHED_BAMBOO_PLANKS);
             event.accept(ModBlocks.POLISHED_BAMBOO_STAIRS);
             event.accept(ModBlocks.POLISHED_BAMBOO_SLAB);
@@ -59,6 +60,7 @@ public class PolishedPlanks {
             event.accept(ModBlocks.POLISHED_BAMBOO_FENCE);
             event.accept(ModBlocks.POLISHED_BAMBOO_FENCE_GATE);
             event.accept(ModBlocks.POLISHED_BAMBOO_DOOR);
+            event.accept(ModBlocks.POLISHED_BAMBOO_TRAPDOOR);
             event.accept(ModBlocks.POLISHED_BIRCH_PLANKS);
             event.accept(ModBlocks.POLISHED_BIRCH_STAIRS);
             event.accept(ModBlocks.POLISHED_BIRCH_SLAB);
@@ -67,6 +69,7 @@ public class PolishedPlanks {
             event.accept(ModBlocks.POLISHED_BIRCH_FENCE);
             event.accept(ModBlocks.POLISHED_BIRCH_FENCE_GATE);
             event.accept(ModBlocks.POLISHED_BIRCH_DOOR);
+            event.accept(ModBlocks.POLISHED_BIRCH_TRAPDOOR);
             event.accept(ModBlocks.POLISHED_CHERRY_PLANKS);
             event.accept(ModBlocks.POLISHED_CHERRY_STAIRS);
             event.accept(ModBlocks.POLISHED_CHERRY_SLAB);
@@ -75,6 +78,7 @@ public class PolishedPlanks {
             event.accept(ModBlocks.POLISHED_CHERRY_FENCE);
             event.accept(ModBlocks.POLISHED_CHERRY_FENCE_GATE);
             event.accept(ModBlocks.POLISHED_CHERRY_DOOR);
+            event.accept(ModBlocks.POLISHED_CHERRY_TRAPDOOR);
             event.accept(ModBlocks.POLISHED_CRIMSON_PLANKS);
             event.accept(ModBlocks.POLISHED_CRIMSON_STAIRS);
             event.accept(ModBlocks.POLISHED_CRIMSON_SLAB);
@@ -83,6 +87,7 @@ public class PolishedPlanks {
             event.accept(ModBlocks.POLISHED_CRIMSON_FENCE);
             event.accept(ModBlocks.POLISHED_CRIMSON_FENCE_GATE);
             event.accept(ModBlocks.POLISHED_CRIMSON_DOOR);
+            event.accept(ModBlocks.POLISHED_CRIMSON_TRAPDOOR);
             event.accept(ModBlocks.POLISHED_DARK_OAK_PLANKS);
             event.accept(ModBlocks.POLISHED_DARK_OAK_STAIRS);
             event.accept(ModBlocks.POLISHED_DARK_OAK_SLAB);
@@ -91,6 +96,7 @@ public class PolishedPlanks {
             event.accept(ModBlocks.POLISHED_DARK_OAK_FENCE);
             event.accept(ModBlocks.POLISHED_DARK_OAK_FENCE_GATE);
             event.accept(ModBlocks.POLISHED_DARK_OAK_DOOR);
+            event.accept(ModBlocks.POLISHED_DARK_OAK_TRAPDOOR);
             event.accept(ModBlocks.POLISHED_JUNGLE_PLANKS);
             event.accept(ModBlocks.POLISHED_JUNGLE_STAIRS);
             event.accept(ModBlocks.POLISHED_JUNGLE_SLAB);
@@ -99,6 +105,7 @@ public class PolishedPlanks {
             event.accept(ModBlocks.POLISHED_JUNGLE_FENCE);
             event.accept(ModBlocks.POLISHED_JUNGLE_FENCE_GATE);
             event.accept(ModBlocks.POLISHED_JUNGLE_DOOR);
+            event.accept(ModBlocks.POLISHED_JUNGLE_TRAPDOOR);
             event.accept(ModBlocks.POLISHED_MANGROVE_PLANKS);
             event.accept(ModBlocks.POLISHED_MANGROVE_STAIRS);
             event.accept(ModBlocks.POLISHED_MANGROVE_SLAB);
@@ -107,6 +114,7 @@ public class PolishedPlanks {
             event.accept(ModBlocks.POLISHED_MANGROVE_FENCE);
             event.accept(ModBlocks.POLISHED_MANGROVE_FENCE_GATE);
             event.accept(ModBlocks.POLISHED_MANGROVE_DOOR);
+            event.accept(ModBlocks.POLISHED_MANGROVE_TRAPDOOR);
             event.accept(ModBlocks.POLISHED_OAK_PLANKS);
             event.accept(ModBlocks.POLISHED_OAK_STAIRS);
             event.accept(ModBlocks.POLISHED_OAK_SLAB);
@@ -115,6 +123,7 @@ public class PolishedPlanks {
             event.accept(ModBlocks.POLISHED_OAK_FENCE);
             event.accept(ModBlocks.POLISHED_OAK_FENCE_GATE);
             event.accept(ModBlocks.POLISHED_OAK_DOOR);
+            event.accept(ModBlocks.POLISHED_OAK_TRAPDOOR);
             event.accept(ModBlocks.POLISHED_SPRUCE_PLANKS);
             event.accept(ModBlocks.POLISHED_SPRUCE_STAIRS);
             event.accept(ModBlocks.POLISHED_SPRUCE_SLAB);
@@ -123,6 +132,7 @@ public class PolishedPlanks {
             event.accept(ModBlocks.POLISHED_SPRUCE_FENCE);
             event.accept(ModBlocks.POLISHED_SPRUCE_FENCE_GATE);
             event.accept(ModBlocks.POLISHED_SPRUCE_DOOR);
+            event.accept(ModBlocks.POLISHED_SPRUCE_TRAPDOOR);
             event.accept(ModBlocks.POLISHED_WARPED_PLANKS);
             event.accept(ModBlocks.POLISHED_WARPED_STAIRS);
             event.accept(ModBlocks.POLISHED_WARPED_SLAB);
@@ -131,6 +141,7 @@ public class PolishedPlanks {
             event.accept(ModBlocks.POLISHED_WARPED_FENCE);
             event.accept(ModBlocks.POLISHED_WARPED_FENCE_GATE);
             event.accept(ModBlocks.POLISHED_WARPED_DOOR);
+            event.accept(ModBlocks.POLISHED_WARPED_TRAPDOOR);
         }
 
     }

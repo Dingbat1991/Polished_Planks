@@ -7,7 +7,7 @@
     "block.polished_planks.polished_acacia_fence": "Polished Acacia Fence",
     "block.polished_planks.polished_acacia_fence_gate": "Polished Acacia Fence Gate",
     "block.polished_planks.polished_acacia_door": "Polished Acacia Door",
-
+    "block.polished_planks.polished_acacia_trapdoor": "Polished Acacia Trapdoor",
     "block.polished_planks.polished_bamboo_planks": "Polished Bamboo Planks",
     "block.polished_planks.polished_bamboo_stairs": "Polished Bamboo Stairs",
     "block.polished_planks.polished_bamboo_slab": "Polished Bamboo Slab",
@@ -16,7 +16,7 @@
     "block.polished_planks.polished_bamboo_fence": "Polished Bamboo Fence",
     "block.polished_planks.polished_bamboo_fence_gate": "Polished Bamboo Fence Gate",
     "block.polished_planks.polished_bamboo_door": "Polished Bamboo Door",
-
+    "block.polished_planks.polished_bamboo_trapdoor": "Polished Bamboo Trapdoor",
     "block.polished_planks.polished_birch_planks": "Polished Birch Planks",
     "block.polished_planks.polished_birch_stairs": "Polished Birch Stairs",
     "block.polished_planks.polished_birch_slab": "Polished Birch Slab",
@@ -25,7 +25,7 @@
     "block.polished_planks.polished_birch_fence": "Polished Birch Fence",
     "block.polished_planks.polished_birch_fence_gate": "Polished Birch Fence Gate",
     "block.polished_planks.polished_birch_door": "Polished Birch Door",
-
+    "block.polished_planks.polished_birch_trapdoor": "Polished Birch Trapdoor",
     "block.polished_planks.polished_cherry_planks": "Polished Cherry Planks",
     "block.polished_planks.polished_cherry_stairs": "Polished Cherry Stairs",
     "block.polished_planks.polished_cherry_slab": "Polished Cherry Slab",
@@ -34,7 +34,7 @@
     "block.polished_planks.polished_cherry_fence": "Polished Cherry Fence",
     "block.polished_planks.polished_cherry_fence_gate": "Polished Cherry Fence Gate",
     "block.polished_planks.polished_cherry_door": "Polished Cherry Door",
-
+    "block.polished_planks.polished_cherry_trapdoor": "Polished Cherry Trapdoor",
     "block.polished_planks.polished_crimson_planks": "Polished Crimson Planks",
     "block.polished_planks.polished_crimson_stairs": "Polished Crimson Stairs",
     "block.polished_planks.polished_crimson_slab": "Polished Crimson Slab",
@@ -43,7 +43,7 @@
     "block.polished_planks.polished_crimson_fence": "Polished Crimson Fence",
     "block.polished_planks.polished_crimson_fence_gate": "Polished Crimson Fence Gate",
     "block.polished_planks.polished_crimson_door": "Polished Crimson Door",
-
+    "block.polished_planks.polished_crimson_trapdoor": "Polished Crimson Trapdoor",
     "block.polished_planks.polished_dark_oak_planks": "Polished Dark Oak Planks",
     "block.polished_planks.polished_dark_oak_stairs": "Polished Dark Oak Stairs",
     "block.polished_planks.polished_dark_oak_slab": "Polished Dark Oak Slab",
@@ -52,7 +52,7 @@
     "block.polished_planks.polished_dark_oak_fence": "Polished Dark Oak Fence",
     "block.polished_planks.polished_dark_oak_fence_gate": "Polished Dark Oak Fence Gate",
     "block.polished_planks.polished_dark_oak_door": "Polished Dark Oak Door",
-
+    "block.polished_planks.polished_dark_oak_trapdoor": "Polished Dark Oak Trapdoor",
     "block.polished_planks.polished_jungle_planks": "Polished Jungle Planks",
     "block.polished_planks.polished_jungle_stairs": "Polished Jungle Stairs",
     "block.polished_planks.polished_jungle_slab": "Polished Jungle Slab",
@@ -61,7 +61,7 @@
     "block.polished_planks.polished_jungle_fence": "Polished Jungle Fence",
     "block.polished_planks.polished_jungle_fence_gate": "Polished Jungle Fence Gate",
     "block.polished_planks.polished_jungle_door": "Polished Jungle Door",
-
+    "block.polished_planks.polished_jungle_trapdoor": "Polished Jungle Trapdoor",
     "block.polished_planks.polished_mangrove_planks": "Polished Mangrove Planks",
     "block.polished_planks.polished_mangrove_stairs": "Polished Mangrove Stairs",
     "block.polished_planks.polished_mangrove_slab": "Polished Mangrove Slab",
@@ -70,7 +70,7 @@
     "block.polished_planks.polished_mangrove_fence": "Polished Mangrove Fence",
     "block.polished_planks.polished_mangrove_fence_gate": "Polished Mangrove Fence Gate",
     "block.polished_planks.polished_mangrove_door": "Polished Mangrove Door",
-
+    "block.polished_planks.polished_mangrove_trapdoor": "Polished Mangrove Trapdoor",
     "block.polished_planks.polished_oak_planks": "Polished Oak Planks",
     "block.polished_planks.polished_oak_stairs": "Polished Oak Stairs",
     "block.polished_planks.polished_oak_slab": "Polished Oak Slab",
@@ -79,7 +79,7 @@
     "block.polished_planks.polished_oak_fence": "Polished Oak Fence",
     "block.polished_planks.polished_oak_fence_gate": "Polished Oak Fence Gate",
     "block.polished_planks.polished_oak_door": "Polished Oak Door",
-
+    "block.polished_planks.polished_oak_trapdoor": "Polished Oak Trapdoor",
     "block.polished_planks.polished_spruce_planks": "Polished Spruce Planks",
     "block.polished_planks.polished_spruce_stairs": "Polished Spruce Stairs",
     "block.polished_planks.polished_spruce_slab": "Polished Spruce Slab",
@@ -88,7 +88,7 @@
     "block.polished_planks.polished_spruce_fence": "Polished Spruce Fence",
     "block.polished_planks.polished_spruce_fence_gate": "Polished Spruce Fence Gate",
     "block.polished_planks.polished_spruce_door": "Polished Spruce Door",
-
+    "block.polished_planks.polished_spruce_trapdoor": "Polished Spruce Trapdoor",
     "block.polished_planks.polished_warped_planks": "Polished Warped Planks",
     "block.polished_planks.polished_warped_stairs": "Polished Warped Stairs",
     "block.polished_planks.polished_warped_slab": "Polished Warped Slab",
@@ -96,5 +96,6 @@
     "block.polished_planks.polished_warped_pressure_plate": "Polished Warped Pressure Plate",
     "block.polished_planks.polished_warped_fence": "Polished Warped Fence",
     "block.polished_planks.polished_warped_fence_gate": "Polished Warped Fence Gate",
-    "block.polished_planks.polished_warped_door": "Polished Warped Door"
+    "block.polished_planks.polished_warped_door": "Polished Warped Door",
+    "block.polished_planks.polished_warped_trapdoor": "Polished Warped Trapdoor"
 }

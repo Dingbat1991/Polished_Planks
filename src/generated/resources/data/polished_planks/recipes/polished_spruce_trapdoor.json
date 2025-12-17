@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "polished_trapdoors",
+  "key": {
+    "B": {
+      "item": "polished_planks:polished_spruce_planks"
+    }
+  },
+  "pattern": [
+    "BBB",
+    "BBB"
+  ],
+  "result": {
+    "count": 2,
+    "item": "polished_planks:polished_spruce_trapdoor"
+  },
+  "show_notification": true
+}
