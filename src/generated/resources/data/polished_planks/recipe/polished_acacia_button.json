@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "redstone",
+  "group": "polished_buttons",
+  "ingredients": [
+    {
+      "item": "polished_planks:polished_acacia_planks"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "polished_planks:polished_acacia_button"
+  }
+}
