@@ -1,5 +1,15 @@
 {
   "values": [
-    "polished_planks:polished_acacia_pressure_plate"
+    "polished_planks:polished_acacia_pressure_plate",
+    "polished_planks:polished_bamboo_pressure_plate",
+    "polished_planks:polished_birch_pressure_plate",
+    "polished_planks:polished_cherry_pressure_plate",
+    "polished_planks:polished_crimson_pressure_plate",
+    "polished_planks:polished_dark_oak_pressure_plate",
+    "polished_planks:polished_jungle_pressure_plate",
+    "polished_planks:polished_mangrove_pressure_plate",
+    "polished_planks:polished_oak_pressure_plate",
+    "polished_planks:polished_spruce_pressure_plate",
+    "polished_planks:polished_warped_pressure_plate"
   ]
 }

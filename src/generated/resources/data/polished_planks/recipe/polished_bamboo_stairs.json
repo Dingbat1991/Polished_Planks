@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "polished_stairs",
+  "key": {
+    "#": {
+      "item": "polished_planks:polished_bamboo_planks"
+    }
+  },
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "result": {
+    "count": 4,
+    "id": "polished_planks:polished_bamboo_stairs"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "polished_planks:block/polished_oak_pressure_plate"
+    },
+    "powered=true": {
+      "model": "polished_planks:block/polished_oak_pressure_plate_down"
+    }
+  }
+}

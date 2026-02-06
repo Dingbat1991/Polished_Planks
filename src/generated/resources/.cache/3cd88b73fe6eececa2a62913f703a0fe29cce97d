@@ -1,10 +1,10 @@
-// 1.21.1	2026-01-29T23:29:16.6797114	Tags for minecraft:block mod id polished_planks
-fc099d921e1dad652fc7f4d2d479a430dd327741 data/minecraft/tags/block/buttons.json
-c465650eddc2b05f1f29f29ccaf17797aa3c1ca9 data/minecraft/tags/block/doors.json
-9d24f2b806dd3b3b8f52e48a6dc7677043a5e657 data/minecraft/tags/block/fences.json
-24c7067ca4daf6256eca3253b79426bee88b9c66 data/minecraft/tags/block/fence_gates.json
-d536d6fbf0b64451d30dc4fb2d0ce12f66c9ef31 data/minecraft/tags/block/planks.json
-308bec95167c0fcf08c2b461e20a6ac937f73f98 data/minecraft/tags/block/pressure_plates.json
-29e8fd425bd9bf218b775f990b3180936e1f4f2f data/minecraft/tags/block/slabs.json
-04517b65062e2fd3b71203cadf942578e1cfc2f3 data/minecraft/tags/block/stairs.json
-8ea59b8df008870d99b99ebc4144a40ef8eb8533 data/minecraft/tags/block/trapdoors.json
+// 1.21.1	2026-02-03T21:51:47.2259986	Tags for minecraft:block mod id polished_planks
+671e1aa2ca3a9d21623a38c63cbb76492419775c data/minecraft/tags/block/buttons.json
+78fbae49071059c48da62e235ec59f62c3d14353 data/minecraft/tags/block/doors.json
+7c1eca12a269eed47c10681369f27297ccd11f4f data/minecraft/tags/block/fences.json
+06f80cc84d7f2a07b8ca7c8aaf37125d15c54959 data/minecraft/tags/block/fence_gates.json
+43101073941c7f8dd1a3c413555d42119c763c07 data/minecraft/tags/block/planks.json
+ca2cdeddb5e152e1ed520274ecbe26c07306cbf3 data/minecraft/tags/block/pressure_plates.json
+15aa29ca7e4a1942661795c894c26688316e98ed data/minecraft/tags/block/slabs.json
+1fa4561890ebeaa35ce9e280ebaa306264675cf5 data/minecraft/tags/block/stairs.json
+a69dc9098074de6a817148740e94d8c30eb36f62 data/minecraft/tags/block/trapdoors.json

@@ -1,5 +1,15 @@
 {
   "values": [
-    "polished_planks:polished_acacia_door"
+    "polished_planks:polished_acacia_door",
+    "polished_planks:polished_bamboo_door",
+    "polished_planks:polished_birch_door",
+    "polished_planks:polished_cherry_door",
+    "polished_planks:polished_crimson_door",
+    "polished_planks:polished_dark_oak_door",
+    "polished_planks:polished_jungle_door",
+    "polished_planks:polished_mangrove_door",
+    "polished_planks:polished_oak_door",
+    "polished_planks:polished_spruce_door",
+    "polished_planks:polished_warped_door"
   ]
 }

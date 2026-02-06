@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "polished_planks:block/polished_bamboo_slab"
+    },
+    "type=double": {
+      "model": "polished_planks:block/polished_bamboo_planks"
+    },
+    "type=top": {
+      "model": "polished_planks:block/polished_bamboo_slab_top"
+    }
+  }
+}
